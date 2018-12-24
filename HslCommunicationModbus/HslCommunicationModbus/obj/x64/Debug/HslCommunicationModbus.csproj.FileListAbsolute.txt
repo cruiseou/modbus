@@ -1,0 +1,16 @@
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\HslCommunicationModbus.exe.config
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\HslCommunicationModbus.exe
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\HslCommunicationModbus.pdb
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\HslCommunication.dll
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\Newtonsoft.Json.dll
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\HslCommunication.xml
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\Newtonsoft.Json.xml
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.csprojResolveAssemblyReference.cache
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Form1.resources
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Units.NetRs232.resources
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Properties.Resources.resources
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Units.DataReceive.resources
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Units.DataSend.resources
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.csproj.GenerateResource.Cache
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.exe
+D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.pdb
