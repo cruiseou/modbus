@@ -1,7 +1,0 @@
-D:\葛工\modbus\Modbus\Modbus\bin\Debug\Modbus.exe.config
-D:\葛工\modbus\Modbus\Modbus\bin\Debug\Modbus.exe
-D:\葛工\modbus\Modbus\Modbus\bin\Debug\Modbus.pdb
-D:\葛工\modbus\Modbus\Modbus\obj\Debug\Modbus.Properties.Resources.resources
-D:\葛工\modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.GenerateResource.Cache
-D:\葛工\modbus\Modbus\Modbus\obj\Debug\Modbus.exe
-D:\葛工\modbus\Modbus\Modbus\obj\Debug\Modbus.pdb
