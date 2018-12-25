@@ -83,6 +83,12 @@
     <Compile Include="Lib\LeafEvent.cs" />
     <Compile Include="Model\CMD.cs" />
     <Compile Include="Model\IPPacket.cs" />
+    <Compile Include="PLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PLC.Designer.cs">
+      <DependentUpon>PLC.cs</DependentUpon>
+    </Compile>
     <Compile Include="Units\NetRs232.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -107,6 +113,9 @@
     <Compile Include="Units\ICommunication.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PLC.resx">
+      <DependentUpon>PLC.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Units\NetRs232.resx">
       <DependentUpon>NetRs232.cs</DependentUpon>

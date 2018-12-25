@@ -14,3 +14,6 @@ D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug
 D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.csproj.GenerateResource.Cache
 D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.exe
 D:\葛工\SourceCode\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.pdb
+D:\葛工\modbus\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\HslCommunicationModbus.exe.config
+D:\葛工\modbus\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.exe
+D:\葛工\modbus\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.pdb
