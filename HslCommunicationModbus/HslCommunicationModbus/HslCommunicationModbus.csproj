@@ -114,9 +114,6 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PLC.resx">
-      <DependentUpon>PLC.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Units\NetRs232.resx">
       <DependentUpon>NetRs232.cs</DependentUpon>
     </EmbeddedResource>
