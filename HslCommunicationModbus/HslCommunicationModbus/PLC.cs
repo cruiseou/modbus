@@ -16,5 +16,10 @@ namespace HslCommunicationModbus
         {
             InitializeComponent();
         }
+
+        private void userBottle1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
