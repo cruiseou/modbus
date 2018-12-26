@@ -24,8 +24,8 @@ F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationMod
 F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\Newtonsoft.Json.dll
 F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\HslCommunication.xml
 F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationModbus\bin\x64\Debug\Newtonsoft.Json.xml
-F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.csprojAssemblyReference.cache
 F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Form1.resources
+F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Units.NetRs232.resources
 F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Units.testNetRs232.resources
 F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Properties.Resources.resources
 F:\Demo\葛工\新建文件夹\modbus\HslCommunicationModbus\HslCommunicationModbus\obj\x64\Debug\HslCommunicationModbus.Units.DataReceive.resources
