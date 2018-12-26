@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.dataReceive1 = new HslCommunicationModbus.Units.DataReceive();
-            this.netRs2321 = new HslCommunicationModbus.Units.NetRs232();
+            this.netRs2321 = new HslCommunicationModbus.Units.testNetRs232();
             this.SuspendLayout();
             // 
             // dataReceive1
@@ -63,7 +63,7 @@
 
         #endregion
 
-        private Units. NetRs232 netRs2321;
+        private Units. testNetRs232 netRs2321;
         private Units.DataReceive dataReceive1;
     }
 }
